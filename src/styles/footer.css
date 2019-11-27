@@ -1,0 +1,23 @@
+.footer {
+  height: 250px;
+  background-color: #414141;
+}
+.footer__wrapper {
+  padding-top: 30px;
+  margin: auto;
+}
+.footer__wrapper-rights {
+  margin: auto;
+}
+.footer__underline {
+  background-color: darkgray;
+  margin-top: 30px;
+}
+.footer__last-data {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=footer.css.map */

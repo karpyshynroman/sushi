@@ -1,0 +1,61 @@
+hr {
+  margin: 0;
+  padding: 0;
+}
+span{
+  color: white;
+
+  &:hover{
+    cursor: pointer;
+  }
+}
+.header-top {
+  background-color: #414141;
+
+  &__time {
+    width: 70%;
+    margin-right: 50px;
+  }
+}
+
+.header-middle {
+  background-color: #ffffff;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+
+  &__right {
+    margin-top: 70px;
+    margin-left: 60px;
+  }
+
+  &__left {
+    margin-top: 70px;
+    margin-right: 60px;
+    &-phone {
+      color: black;
+    }
+  }
+}
+
+.header-menu-bottom {
+  background-color: white;
+  height: 40px;
+}
+
+
+.mnemonic {
+  color: #646464;
+}
+
+.clock {
+  width: 25px;
+  height: 25px;
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+}
+
+

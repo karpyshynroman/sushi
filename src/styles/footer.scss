@@ -1,0 +1,25 @@
+.footer{
+  height: 250px;
+  background-color: #414141;
+
+  &__wrapper {
+    padding-top: 30px;
+    margin: auto;
+
+    &-rights {
+      margin: auto;
+    }
+  }
+
+  &__underline {
+    background-color: darkgray;
+    margin-top: 30px;
+  }
+
+  &__last-data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}

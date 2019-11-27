@@ -1,0 +1,58 @@
+hr {
+  margin: 0;
+  padding: 0;
+}
+
+span {
+  color: white;
+}
+span:hover {
+  cursor: pointer;
+}
+
+.header-top {
+  background-color: #414141;
+}
+.header-top__time {
+  width: 70%;
+  margin-right: 50px;
+}
+
+.header-middle {
+  background-color: #ffffff;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+}
+.header-middle__right {
+  margin-top: 70px;
+  margin-left: 60px;
+}
+.header-middle__left {
+  margin-top: 70px;
+  margin-right: 60px;
+}
+.header-middle__left-phone {
+  color: black;
+}
+
+.header-menu-bottom {
+  background-color: white;
+  height: 40px;
+}
+
+.mnemonic {
+  color: #646464;
+}
+
+.clock {
+  width: 25px;
+  height: 25px;
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+}
+
+/*# sourceMappingURL=header.css.map */
